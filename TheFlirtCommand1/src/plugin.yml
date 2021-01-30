@@ -1,0 +1,10 @@
+name: TheFlirtCommand
+version: 1.0
+author: KRYMZ0N
+main: me.KRYMZ0N.TheFlirtCommand1.Main
+description: Plugin to Flirt with the players!
+
+commands:
+  flirt:
+    aliases: [sex]
+    description: This is the flirt/sex command!
